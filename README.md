@@ -10,7 +10,7 @@ A Platform where Fans can Buy Fan Tokens of their Favorite Sports Franchise and 
 
 ## Concept Page:
 
-- [![Concept Page](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+- [![Concept Page](https://sportzride.typedream.app/)
 
 
 ## Screenshots
