@@ -10,7 +10,7 @@ A Platform where Fans can Buy Fan Tokens of their Favorite Sports Franchise and 
 
 ## Concept Page:
 
-- [![Concept Page](https://sportzride.typedream.app/)
+- [![Concept Page](🔗)](https://sportzride.typedream.app/)
 
 
 ## Screenshots
