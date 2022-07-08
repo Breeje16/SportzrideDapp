@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732005906204",
+    "project_id": "sportzride-f523d",
+    "storage_bucket": "sportzride-f523d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732005906204:android:9b47e492d5f2e7ed5aecd9",
+        "android_client_info": {
+          "package_name": "com.sportzide.sportzrideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732005906204-leu77u3me1jib263n8dq8j8un497q2df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKR3wfCiD50RLjB8Unr0cGgNbdHg3mvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732005906204-leu77u3me1jib263n8dq8j8un497q2df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
