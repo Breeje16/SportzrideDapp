@@ -1,4 +1,0 @@
-# sportzride
-
-### Screenshots
-
