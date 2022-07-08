@@ -8,6 +8,9 @@ A Platform where Fans can Buy Fan Tokens of their Favorite Sports Franchise and 
 
 - Revolutionize the Franchise - Fan Engagement on the Internet.
 
+## Concept Page:
+
+- [![Concept Page](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 
 
 ## Screenshots
