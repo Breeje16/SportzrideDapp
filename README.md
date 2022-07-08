@@ -19,5 +19,3 @@
 [![8.jpg](https://i.postimg.cc/yYLLMmzw/8.jpg)](https://postimg.cc/vc6796Tz)
 
 [![9.jpg](https://i.postimg.cc/k4Ncf8cY/9.jpg)](https://postimg.cc/G82Gp46v)
-
-[![10.jpg](https://i.postimg.cc/fTqv2Mcs/10.jpg)](https://postimg.cc/BXDDt977)
